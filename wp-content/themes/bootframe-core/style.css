@@ -1,0 +1,17 @@
+/*
+Theme Name: BootFrame Core
+Theme URI: http://netbiel.pl/bootframe-core/info/
+Author: Peter Bielecki
+Author URI: http://netbiel.pl
+Description: BootFrame Core is multipurpose WordPress theme with a clean responsive design  based on Bootstrap framework. BootFrame Core has a professional look that suits corporate business, blogs and portfolio websites. With deep WooCommerce plugin integration, BootFrame Core makes it easy to create eCommerce website. BootFrame is highly customizable with unlimited color and font options, logo upload, social media icons and much more that can be adjusted via Costomizer. You can easy build for your business site, portfolio, blog, one page, restaurant , healthcare, construction, education, sports, online agency,  services or any other site. BootFrame supports Site Origin's Page Builder which allows you to build any page layout required. It's also integrated with popular plugins: Contact Form 7, WPML, Polylang, Shortcodes Ultimate, WooCommerce
+Version: 4.0.1
+License:
+License URI:
+Tags:  one-column, two-columns, custom-background, custom-colors,  custom-menu, featured-image-header, featured-images, theme-options, full-width-template, sticky-post, flexible-header,  threaded-comments, translation-ready
+Text Domain: bootframe-core
+*/
+
+
+@import "assets/css/vendor.css";
+
+@import "assets/css/main.css";

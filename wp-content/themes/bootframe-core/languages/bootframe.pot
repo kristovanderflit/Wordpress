@@ -1,0 +1,1641 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BootFrame 1.0\n"
+"POT-Creation-Date: 2015-10-18 23:51+0100\n"
+"PO-Revision-Date: 2015-10-18 23:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: Peter Bielecki <netbiel@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ./smart-lib\n"
+"X-Poedit-SearchPath-2: ./smart-lib/core\n"
+"X-Poedit-SearchPath-3: ./smart-lib/extend\n"
+"X-Poedit-SearchPath-4: ./smart-lib/project\n"
+"X-Poedit-SearchPath-5: ./views/snippets\n"
+
+#: smart-lib/activation.php:32
+msgid "BootFrame Starter"
+msgstr ""
+
+#: smart-lib/activation.php:42
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: smart-lib/activation.php:51
+msgid "BootFrame Activation"
+msgstr ""
+
+#: smart-lib/activation.php:55
+msgid "Congratulations! BootFrame is working now!"
+msgstr ""
+
+#: smart-lib/activation.php:57
+msgid ""
+"If you want to enjoy all the options offered by the theme you need to "
+"install all plugins listed below:"
+msgstr ""
+
+#: smart-lib/activation.php:61
+msgid "Plugins List"
+msgstr ""
+
+#: smart-lib/activation.php:288
+msgid "Install Required Plugins"
+msgstr ""
+
+#: smart-lib/activation.php:289
+msgid "Install Plugins"
+msgstr ""
+
+#: smart-lib/activation.php:290
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: smart-lib/activation.php:291
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: smart-lib/activation.php:302
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: smart-lib/activation.php:303
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: smart-lib/activation.php:304
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:29
+msgid "Enabling this option will display animation while page loads"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:34
+#: smart-lib/class-customizer-options.php:199
+msgid "Hide"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:35
+msgid "Show"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:46
+#: smart-lib/class-customizer-options.php:60
+msgid "Enabling this option will display photos using prettyPhoto lightbox"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:51
+#: smart-lib/class-customizer-options.php:65
+#: smart-lib/class-customizer-options.php:213
+#: smart-lib/class-customizer-options.php:226
+#: smart-lib/class-customizer-options.php:239
+#: smart-lib/class-customizer-options.php:252
+#: smart-lib/class-customizer-options.php:306
+#: smart-lib/class-customizer-options.php:320
+#: smart-lib/class-customizer-options.php:334
+#: smart-lib/class-customizer-options.php:348
+#: smart-lib/class-customizer-options.php:362
+#: smart-lib/class-customizer-options.php:379
+#: smart-lib/class-customizer-options.php:393
+#: smart-lib/class-customizer-options.php:407
+#: smart-lib/class-customizer-options.php:421
+#: smart-lib/class-customizer-options.php:435
+#: smart-lib/class-customizer-options.php:500
+msgid "OFF"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:52
+#: smart-lib/class-customizer-options.php:66
+#: smart-lib/class-customizer-options.php:214
+#: smart-lib/class-customizer-options.php:227
+#: smart-lib/class-customizer-options.php:240
+#: smart-lib/class-customizer-options.php:253
+#: smart-lib/class-customizer-options.php:307
+#: smart-lib/class-customizer-options.php:321
+#: smart-lib/class-customizer-options.php:335
+#: smart-lib/class-customizer-options.php:349
+#: smart-lib/class-customizer-options.php:363
+#: smart-lib/class-customizer-options.php:380
+#: smart-lib/class-customizer-options.php:394
+#: smart-lib/class-customizer-options.php:408
+#: smart-lib/class-customizer-options.php:422
+#: smart-lib/class-customizer-options.php:436
+#: smart-lib/class-customizer-options.php:501
+msgid "ON"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:76
+msgid "Custom Scripts for Header [header.php]"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:85
+msgid "Custom Scripts for Footer [footer.php]"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:95
+msgid "Page Width"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:109
+msgid "Sidebar Width"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:125
+msgid "Default Layout Settings:"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:141
+msgid "Archive Page Layout Settings:"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:157
+msgid "Single Page Layout Variants:"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:173
+msgid "Single Post Layout Variants:"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:194
+#: smart-lib/classes/smartlib-customizer.php:114
+msgid "Pagination"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:200
+msgid "Prev/Next"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:201
+msgid "Numbers"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:208
+msgid "Show Author (Default)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:221
+msgid "Show Date (Default)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:234
+msgid "Show Categories (Default)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:247
+msgid "Show Post Format (Default)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:264
+msgid "Show Breadcrumb:"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:269
+#: smart-lib/class-customizer-options.php:448
+#: smart-lib/class-customizer-options.php:464
+#: smart-lib/class-customizer-options.php:480
+#: smart-lib/class-customizer-options.php:513
+#: smart-lib/class-customizer-options.php:529
+#: smart-lib/class-customizer-options.php:542
+#: smart-lib/class-customizer-options.php:556
+#: smart-lib/class-customizer-options.php:571
+#: smart-lib/class-customizer-options.php:708
+#: smart-lib/class-customizer-options.php:772
+#: smart-lib/class-customizer-options.php:786
+msgid "Off"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:270
+#: smart-lib/class-customizer-options.php:449
+#: smart-lib/class-customizer-options.php:465
+#: smart-lib/class-customizer-options.php:481
+#: smart-lib/class-customizer-options.php:514
+#: smart-lib/class-customizer-options.php:530
+#: smart-lib/class-customizer-options.php:543
+#: smart-lib/class-customizer-options.php:557
+#: smart-lib/class-customizer-options.php:572
+#: smart-lib/class-customizer-options.php:709
+#: smart-lib/class-customizer-options.php:773
+#: smart-lib/class-customizer-options.php:787
+msgid "On"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:276
+msgid "Breadcrumb separator:"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:286
+msgid "Breadcrumb Home Page Name:"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:288 smart-lib/template-tags.php:756
+msgid "Home"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:300
+msgid "Show Author (Archive Pages)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:314
+msgid "Show Author (Archive Pges)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:328
+msgid "Show Date (Archive Pges)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:342
+msgid "Show Categories (Archive Pges)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:356
+msgid "Show Post Format (Archive Pges)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:373
+msgid "Show Author (Single Post)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:387
+msgid "Show Date (Single Post)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:401
+msgid "Show Categories (Single Post)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:415
+msgid "Show Post Format (Single Post)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:429
+msgid "Show Replay Link (Single Post)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:443
+msgid "Display the total number of comments"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:457
+msgid "Display side panel:"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:458
+msgid "It will be displayed only in large resolutions"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:473
+msgid "Display social buttons"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:474
+msgid "Remember to activate the plugin WP Socialite"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:495
+msgid "Show Top Bar"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:508
+msgid "Display social buttons in top bar"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:524
+msgid "Search in navigation area"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:537
+msgid "Fiexed Top Navbar"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:550
+msgid "In Grid Navbar"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:565
+#: smart-lib/integrations/metabox-integration.php:156
+msgid "Display navbar over content"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:566
+msgid ""
+"You can also change this setting on every single page. At this point, choose "
+"option which you will use most often"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:581
+msgid "Navbar Background"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:591
+msgid "Navbar Background Opacity"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:606
+msgid "Menu Font Family"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:618
+msgid "Links Color"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:628
+msgid "Links Hover/Active Color"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:638
+msgid "Links Hover/Active Background"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:648
+msgid "Menu Text Transform"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:653
+#: smart-lib/class-customizer-options.php:865
+#: smart-lib/class-customizer-options.php:930
+#: smart-lib/class-customizer-options.php:995
+#: smart-lib/class-customizer-options.php:1060
+#: smart-lib/class-customizer-options.php:1126
+#: smart-lib/class-customizer-options.php:1192
+#: smart-lib/class-customizer-options.php:1294
+#: smart-lib/class-customizer-options.php:1354
+#: smart-lib/class-customizer-options.php:1415
+#: smart-lib/class-customizer-options.php:1475
+#: smart-lib/class-customizer-options.php:1536
+#: smart-lib/class-customizer-options.php:1596
+msgid "None"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:654
+#: smart-lib/class-customizer-options.php:866
+#: smart-lib/class-customizer-options.php:931
+#: smart-lib/class-customizer-options.php:996
+#: smart-lib/class-customizer-options.php:1061
+#: smart-lib/class-customizer-options.php:1127
+#: smart-lib/class-customizer-options.php:1193
+#: smart-lib/class-customizer-options.php:1295
+#: smart-lib/class-customizer-options.php:1355
+#: smart-lib/class-customizer-options.php:1416
+#: smart-lib/class-customizer-options.php:1476
+#: smart-lib/class-customizer-options.php:1537
+#: smart-lib/class-customizer-options.php:1597
+msgid "Uppercase"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:662
+msgid "Menu Bolding"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:667
+#: smart-lib/class-customizer-options.php:879
+#: smart-lib/class-customizer-options.php:944
+#: smart-lib/class-customizer-options.php:1009
+#: smart-lib/class-customizer-options.php:1074
+#: smart-lib/class-customizer-options.php:1140
+#: smart-lib/class-customizer-options.php:1206
+msgid "Normal"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:668
+#: smart-lib/class-customizer-options.php:880
+#: smart-lib/class-customizer-options.php:945
+#: smart-lib/class-customizer-options.php:1010
+#: smart-lib/class-customizer-options.php:1075
+#: smart-lib/class-customizer-options.php:1141
+#: smart-lib/class-customizer-options.php:1207
+msgid "Bold"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:676
+msgid "Links Decoration Color"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:677
+msgid "Top border after mouseover"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:687
+msgid "Search Button Icon Color"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:703
+msgid "Display sidebar in footer"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:717
+msgid "Footer Sidebar Background"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:727
+msgid "Footer Headers Color"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:737
+msgid "Headers Decorator Color"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:747
+msgid "Footer Sidebar Text Color"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:757
+msgid "Footer Border Component Color"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:767
+msgid "Display social buttons in footer"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:781
+msgid "Display go to top button"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:799
+msgid "Font Family"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:802
+msgid "Choose a default font for your site"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:812
+#: smart-lib/class-customizer-options.php:1260
+#: smart-lib/class-customizer-options.php:1320
+#: smart-lib/class-customizer-options.php:1381
+#: smart-lib/class-customizer-options.php:1441
+#: smart-lib/class-customizer-options.php:1502
+#: smart-lib/class-customizer-options.php:1562
+msgid "Text Color"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:822
+msgid "H1 Font Family"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:825
+#: smart-lib/class-customizer-options.php:890
+msgid "Choose a default font family for H1 heading"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:835
+msgid "H1 Text Color"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:845
+msgid "H1 Font Size (px)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:860
+msgid "H1 Text Transform"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:874
+msgid "H1 Font Weight"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:887
+msgid "H2 Font Family"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:900
+msgid "H2 Text Color"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:910
+msgid "H2 Font Size (px)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:925
+msgid "H2 Text Transform"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:939
+msgid "H2 Font Weight"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:952
+msgid "H3 Font Family"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:955
+msgid "Choose a default font family for H3 heading"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:965
+msgid "H3 Text Color"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:975
+msgid "H3 Font Size (px)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:990
+#: smart-lib/class-customizer-options.php:1055
+msgid "H3 Text Transform"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1004
+msgid "H3 Font Weight"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1017
+msgid "H4 Font Family"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1020
+msgid "Choose a default font family for H4 heading"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1030
+msgid "H4 Text Color"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1040
+msgid "H4 Font Size (px)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1069
+msgid "H4 Font Weight"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1083
+msgid "H5 Font Family"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1086
+msgid "Choose a default font family for H5 heading"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1096
+#: smart-lib/class-customizer-options.php:1162
+msgid "H5 Text Color"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1106
+msgid "H5 Font Size (px)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1121
+msgid "H5 Text Transform"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1135
+msgid "H5 Font Weight"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1149
+msgid "H6 Font Family"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1152
+msgid "Choose a default font family for H6 heading"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1172
+msgid "H6 Font Size (px)"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1187
+msgid "H6 Text Transform"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1201
+msgid "H6 Font Weight"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1217
+msgid "Links Text Color"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1227
+msgid "Links Hover Text Color"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1244
+msgid "Background Default Button"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1252
+msgid "Background Default Button Hover"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1268
+#: smart-lib/class-customizer-options.php:1328
+#: smart-lib/class-customizer-options.php:1389
+#: smart-lib/class-customizer-options.php:1449
+#: smart-lib/class-customizer-options.php:1510
+#: smart-lib/class-customizer-options.php:1570
+msgid "Border Color"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1276
+msgid "Default Button Font Family"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1279
+msgid "Choose a default font family for default button"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1289
+msgid "Default Button Text Transform"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1304
+#: smart-lib/class-customizer-options.php:1365
+#: smart-lib/class-customizer-options.php:1425
+#: smart-lib/class-customizer-options.php:1486
+#: smart-lib/class-customizer-options.php:1546
+msgid "Background  Button"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1312
+#: smart-lib/class-customizer-options.php:1373
+#: smart-lib/class-customizer-options.php:1433
+#: smart-lib/class-customizer-options.php:1494
+#: smart-lib/class-customizer-options.php:1554
+msgid "Background Button Hover"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1336
+#: smart-lib/class-customizer-options.php:1397
+#: smart-lib/class-customizer-options.php:1457
+#: smart-lib/class-customizer-options.php:1518
+#: smart-lib/class-customizer-options.php:1578
+msgid "Button Font Family"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1339
+#: smart-lib/class-customizer-options.php:1400
+#: smart-lib/class-customizer-options.php:1460
+#: smart-lib/class-customizer-options.php:1521
+#: smart-lib/class-customizer-options.php:1581
+msgid "Choose a font family for button"
+msgstr ""
+
+#: smart-lib/class-customizer-options.php:1349
+#: smart-lib/class-customizer-options.php:1410
+#: smart-lib/class-customizer-options.php:1470
+#: smart-lib/class-customizer-options.php:1531
+#: smart-lib/class-customizer-options.php:1591
+msgid "Button Text Transform"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:25
+msgid "A search form for your site"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:26
+#: smart-lib/template-tags.php:313 smart-lib/template-tags.php:345
+#: searchform.php:6
+msgid "Search"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:54
+#: smart-lib/classes/class-custom-widgets.php:202
+#: smart-lib/classes/class-custom-widgets.php:320
+#: smart-lib/classes/class-custom-widgets.php:591
+#: smart-lib/classes/class-custom-widgets.php:729
+#: smart-lib/classes/class-custom-widgets.php:880
+#: smart-lib/classes/class-custom-widgets.php:1021
+#: smart-lib/classes/class-custom-widgets.php:1178
+#: smart-lib/classes/class-custom-widgets.php:1291
+#: smart-lib/classes/class-custom-widgets.php:1490
+#: smart-lib/classes/class-custom-widgets.php:1867
+#: smart-lib/classes/class-custom-widgets.php:1973
+#: smart-lib/classes/class-custom-widgets.php:2098
+#: smart-lib/classes/class-custom-widgets.php:2301
+#: smart-lib/classes/class-custom-widgets.php:2501
+msgid "Title:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:86
+msgid "The most recent posts on your site (extended contorls)"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:87
+msgid " Extended Recent Posts"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:100
+msgid "Recent Posts"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:208
+msgid "Number of posts to show:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:217
+msgid "Display post date?"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:224
+msgid "Display post thumbnail?"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:231
+msgid "Display post author?"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:249
+msgid "Short  info & avatar"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:250
+msgid " One Author Profile"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:327
+msgid "Authot Name:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:343
+msgid "Avatar Size:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:376
+msgid "Add social profile icons"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:377
+msgid "  Social Icons"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:451
+msgid "Short Title:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:457
+msgid "Facebook:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:462
+msgid "Google+:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:467
+msgid "Youtube:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:472
+msgid "Twitter:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:477
+msgid "Pinterest:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:481
+msgid "LinkedIn:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:509
+msgid "Featured Video Widget"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:510
+msgid " Video Widget"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:597
+msgid "Embed code:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:601
+msgid "More text:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:606
+msgid "Link:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:633
+msgid "Displays last posts from the video post format"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:634
+msgid "  Recent Video"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:736
+#: smart-lib/classes/class-custom-widgets.php:887
+msgid "Limit:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:764
+msgid "Displays last posts from the gallery post format"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:765
+msgid "  Recent Galleries"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:916
+msgid "Extend Content"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:917
+msgid " Extend Content"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:962
+msgid "Learn More"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1029
+msgid "Box image:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1053
+msgid "Box Text:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1061
+msgid "Box read more link"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1062
+msgid "Choose Page"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1065
+msgid "External link"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1094
+msgid "Display Contact Form 7 form in Your sidebar"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1095
+msgid " Contact Form 7 Form"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1108
+msgid "Contact Form"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1165
+msgid "Please install Contact Form 7 plugin from"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1183
+msgid "Select Form:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1215
+msgid "Section Header"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1216
+msgid "  Section Header"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1298
+msgid "Header Subtitle:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1306
+msgid "Header Align:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1310
+#: smart-lib/classes/class-custom-widgets.php:2112
+#: smart-lib/classes/class-custom-widgets.php:2149
+msgid "Left Align"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1312
+#: smart-lib/classes/class-custom-widgets.php:2114
+#: smart-lib/classes/class-custom-widgets.php:2151
+msgid "Center Align"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1314
+#: smart-lib/classes/class-custom-widgets.php:2116
+#: smart-lib/classes/class-custom-widgets.php:2153
+msgid "Right Align"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1319
+msgid "Header Size:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1323
+msgid "Small"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1325
+msgid "Medium"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1327
+msgid "Large"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1353
+msgid "Displays last portfolio item"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1354
+msgid "  Portfolio Items"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1427
+msgid "View More"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1464
+#: smart-lib/classes/class-custom-widgets.php:1853
+#: smart-lib/classes/class-custom-widgets.php:2480
+msgid "Please install Smartlib Tools"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1502
+msgid "Portfolio Category:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1504
+#: smart-lib/classes/class-custom-widgets.php:1690
+msgid "All"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1524
+#: smart-lib/classes/class-custom-widgets.php:1710
+msgid "How many items is displayed:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1558
+msgid "Displays the latest articles in Columns"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1559
+msgid "  Last Articles in  Columns"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1624
+msgid "Read more"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1688
+msgid "Category Articles:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1744
+msgid "Displays testimonials"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1745
+msgid "  Testimonials"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1895
+msgid "Display content from selected page"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1896
+msgid " Display Page Content"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:1978
+#: smart-lib/classes/class-custom-widgets.php:2130
+msgid "Select Page:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:2009
+msgid "Display call to action block"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:2010
+msgid " Call to Action"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:2102
+msgid "Call to Action Text:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:2108
+msgid "Text Align:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:2120
+msgid "Button settings"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:2121
+msgid "Button Text:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:2125
+msgid "Destination URL:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:2145
+msgid "Button Align:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:2174
+msgid "Display animated counter box"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:2175
+msgid " Counter Boxes"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:2310
+msgid "Box Label:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:2317
+msgid "Number:"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:2344
+msgid "Display your team members in columns"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:2345
+msgid " Our Team Columns"
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:2512
+msgid "Coulumn "
+msgstr ""
+
+#: smart-lib/classes/class-custom-widgets.php:2516
+msgid "Select User"
+msgstr ""
+
+#: smart-lib/classes/class-features.php:35
+msgid "Category layout"
+msgstr ""
+
+#: smart-lib/classes/class-features.php:40
+msgid "Default Settings"
+msgstr ""
+
+#: smart-lib/classes/class-features.php:43
+msgid "No Sidebar"
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:111
+#: smart-lib/classes/class-smartlib-actions.php:113
+#: smart-lib/classes/class-smartlib-actions.php:115
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:117
+msgid "Blog Archives"
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:306
+msgid "Comment"
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:306
+msgid "1 Reply"
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:306
+msgid "% Replies"
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:347
+#: smart-lib/classes/class-smartlib-actions.php:352
+msgid " / "
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:416
+msgid "&larr; Older posts"
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:417
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:446
+msgid "Pages:"
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:451
+msgid "Next page"
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:452
+msgid "Previous page"
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:538
+#: smart-lib/template-tags.php:800
+msgid "Pingback:"
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:538
+#: smart-lib/template-tags.php:800
+msgid "(Edit)"
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:647
+msgid "- Select -"
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:666
+msgid "Menu Not Found"
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:853
+msgid "Published by: "
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:868
+msgid "Tags: "
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:886
+msgid "To view this protected post, enter the password below:"
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:886
+msgid "Password:"
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-actions.php:963
+#: views/snippets/author-info.php:6 author.php:22
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: smart-lib/classes/class-smartlib-filters.php:284
+msgid "Continue reading"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:62
+msgid "General"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:68
+msgid "Logo & favicon"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:76
+msgid "Loading Animation"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:82
+msgid "Gallery"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:89
+msgid "Custom Code"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:106
+msgid "Home Page"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:122
+msgid "Pages Settings"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:127
+msgid "Blog Settings"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:135
+msgid "Layout"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:145
+msgid "Fonts & Text Colors"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:150
+msgid "General Text Settings"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:156
+msgid "H1 Style"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:162
+msgid "H2 Style"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:168
+msgid "H3 Style"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:173
+msgid "H4 Style"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:179
+msgid "H5 Style"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:185
+msgid "H6 Style"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:191
+msgid "Links Style"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:198
+msgid "Buttons Settings"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:203
+msgid "Default Button"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:209
+msgid "Primary Button"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:215
+msgid "Success Button"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:221
+msgid "Info Button"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:227
+msgid "Warning Button"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:233
+msgid "Danger Button"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:243
+msgid "Navbar Area"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:249
+msgid "Top Bar Section"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:255
+msgid "Main Navbar Style"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:261
+msgid "Main Menu"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:269
+msgid "Footer Section"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:293
+msgid "Header info"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:310
+msgid "Copyright text"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:329
+msgid "Separator"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:356
+msgid "Upload"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:372
+msgid "Upload favicon"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:395
+msgid "Home Page Header:"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:401
+msgid "Show header"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:402
+msgid "Hide Header"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:419
+msgid "Fluid header:"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:424
+msgid "No"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:425
+msgid "Yes"
+msgstr ""
+
+#: smart-lib/classes/smartlib-customizer.php:439
+msgid "Slider Shortcode"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:27
+msgid "Page Options"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:49
+msgid "Page subtitle"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:53
+msgid "Add page subtitle"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:63
+msgid "Show breadcrumb"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:76
+msgid "Page Layout"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:82
+msgid "No sidebar"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:83
+msgid "Right Sidebar"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:84
+msgid "Left Sidebar"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:94
+msgid "Background image in the header"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:103
+msgid "Page Header Dark Section"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:108
+msgid "Select if uploaded  background is dark"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:113
+msgid "Paralax Heder Effect"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:122
+msgid "Page Header Over Layer Background"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:125
+msgid "It works only with a background image in the header"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:151
+msgid "Top Bar Settings"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:166
+msgid "Display top bar"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:178
+msgid "Footer Settings"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:184
+msgid "Display Footer Sidebar"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:199
+msgid "Team Member Info"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:216
+msgid "Position"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:227
+msgid "E-mail"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:238
+msgid "Facebook profile"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:248
+msgid "Twitter profile"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:259
+msgid "Pinterest profile"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:269
+msgid "Linkedin profile"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:280
+msgid "Google+ profile"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:297
+msgid "Additional information to the content"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:313
+msgid "Client Name"
+msgstr ""
+
+#: smart-lib/integrations/metabox-integration.php:323
+msgid "Portfolio images"
+msgstr ""
+
+#: smart-lib/integrations/page-builder-integration.php:37
+msgid "Half Column"
+msgstr ""
+
+#: smart-lib/integrations/page-builder-integration.php:40
+msgid "Use this in the fluid section to force widget display in column."
+msgstr ""
+
+#: smart-lib/integrations/page-builder-integration.php:56
+msgid "Parallax scrolling "
+msgstr ""
+
+#: smart-lib/integrations/page-builder-integration.php:59
+msgid "Add parallax scroll effect"
+msgstr ""
+
+#: smart-lib/integrations/page-builder-integration.php:64
+msgid "Overlay background color"
+msgstr ""
+
+#: smart-lib/integrations/page-builder-integration.php:67
+msgid "Adds colored layer with some transparency over background image"
+msgstr ""
+
+#: smart-lib/integrations/page-builder-integration.php:82
+msgid "No Padding Columns"
+msgstr ""
+
+#: smart-lib/integrations/page-builder-integration.php:85
+msgid "All columns in this row have no padding."
+msgstr ""
+
+#: smart-lib/integrations/page-builder-integration.php:91
+msgid "Dark Section"
+msgstr ""
+
+#: smart-lib/integrations/page-builder-integration.php:94
+msgid "Section with dark background and light text"
+msgstr ""
+
+#: smart-lib/template-tags.php:311 views/snippets/top-search.php:8
+msgid "Search for ..."
+msgstr ""
+
+#: smart-lib/template-tags.php:442
+msgid "Related posts"
+msgstr ""
+
+#: smart-lib/template-tags.php:466 views/snippets/sticky-slider.php:31
+#: views/content-loop-sidebar.php:14 views/content-loop.php:19
+#: views/content-search.php:14
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: smart-lib/template-tags.php:541
+msgid "Related works"
+msgstr ""
+
+#: smart-lib/template-tags.php:636 views/snippets/prev-next-nav.php:7
+msgid "Post navigation"
+msgstr ""
+
+#: smart-lib/template-tags.php:823
+msgid "Post author"
+msgstr ""
+
+#: smart-lib/template-tags.php:829
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: smart-lib/template-tags.php:832
+msgid "Edit"
+msgstr ""
+
+#: smart-lib/template-tags.php:837
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: smart-lib/template-tags.php:850
+msgid "Reply"
+msgstr ""
+
+#: views/snippets/author-info.php:16
+#, php-format
+msgid "View all posts by %s <span class=\"icon-chevron-sign-right\"></span>"
+msgstr ""
+
+#: views/snippets/top-bar.php:17 views/snippets/top-bar.php:27
+msgid "Languages"
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: archive.php:13
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:14
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:16
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:18
+msgid "Archives"
+msgstr ""
+
+#: author.php:12
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: category.php:11
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:33 comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:34 comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:35 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr ""
+
+#: header.php:46
+msgid "Toggle navigation"
+msgstr ""
+
+#: page-portfolio-four-columns.php:27 page-portfolio.php:28
+msgid "Show All"
+msgstr ""
+
+#: page-portfolio-one-column.php:54 single-smartlib_portfolio.php:84
+msgid "Skills:"
+msgstr ""
+
+#: page-portfolio-one-column.php:76 single-smartlib_portfolio.php:106
+msgid "Client: "
+msgstr ""
+
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:38
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: single-smartlib_portfolio.php:74
+msgid "Project Description"
+msgstr ""
+
+#: tag.php:11
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
